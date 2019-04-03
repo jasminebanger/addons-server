@@ -17,3 +17,6 @@ msgstr ""
 
 msgid "Email address not found."
 msgstr "ਈਮੇਲ ਪਤਾ ਨਹੀਂ ਮਿਲਿਆ|"
+
+msgid "No Users"
+msgstr "ਕੋਈ ਉਪਭੋਗਤਾ ਨਹੀਂ"
